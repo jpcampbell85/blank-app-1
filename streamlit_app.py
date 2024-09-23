@@ -9,5 +9,5 @@ st.button('Testing 1-2-3')
 
 col1, col2, col3 = st.columns(3)
 col1.write(':cancer:')
-col2.write(':scorpio:')
+col2.write(':us:')
 col3.write(':pisces:')
